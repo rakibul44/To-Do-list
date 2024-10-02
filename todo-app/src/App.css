@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+    margin:0px;
+    padding: 0px;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+.todo-warapper{
+    background-color: greenyellow;
+    align-items: center;
+    
+}
